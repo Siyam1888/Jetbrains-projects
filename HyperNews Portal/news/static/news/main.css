@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5{
+    color: orange;
+}
+
+body{
+    background-image: url('news_back.jpg');
+}
+
+a{
+    font-size: 20px;
+    color: pink;
+    text-decoration: none;
+}
+
+table {
+  border: 1px solid black;
+}
+
+.main-container{
+
+
+
+}

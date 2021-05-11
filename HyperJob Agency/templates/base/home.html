@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+
+<div>
+
+    <h1>Hello {{ user }}!</h1>
+    {% if is_staff %}
+        {% include 'vacancy/vacancy_create.html' %}
+    {% else %}
+        {% include 'resume/resume_create.html' %}
+    {% endif %}
+</div>
+
+</div>
+</body>
+</html>

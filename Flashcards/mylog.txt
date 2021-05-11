@@ -1,0 +1,4 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats
+Card statistics has been reset.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
